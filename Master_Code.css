@@ -232,7 +232,7 @@ form.deprecated.auth-form footer {
 }
 
 .guild-channels ul .channel-text.unread:not(.selected):not(.channel-muted):before {
-  left: -11px;
+  left: -5px;
 }
 
 .guild-header ul {
