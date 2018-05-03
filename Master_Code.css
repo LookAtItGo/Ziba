@@ -360,7 +360,7 @@ form.deprecated.auth-form footer {
 }
 
 .guild-channels header {
-  opacity: 0.9;
+  opacity: 0.5;
 }
 
 .scroller.channel-members {
