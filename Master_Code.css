@@ -224,7 +224,7 @@ form.deprecated.auth-form footer {
 }
 
 .guild-channels .channel-text.selected:before, .guild-channels .channel-text.selected:hover:before, .guild-channels .channel-text:hover.channel-muted:before, .guild-channels .channel-text:hover:not(.unread):before, .private-channels .channel.selected:before, .private-channels .channel:hover:before {
-  border-left: 3px solid var(--Main-Colour);
+  border-left: 3px #FF7E7E;
 }
 
 .guild-channels .channel-text:hover {
