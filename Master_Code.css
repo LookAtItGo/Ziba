@@ -1706,8 +1706,8 @@ spinner-pulsing-ellipsis .spinner-item {
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > div > div > div > div:nth-child(37) > div.comment > div.message.mentioned > div.body-3rkFrF > div > div.markup {
   background: transparent !important;
-  border-top-right-radius: 5px !important;
-  border-top-left-radius: 5px !important;
+  border-top-right-radius: 6px !important;
+  border-top-left-radius: 8px !important;
 }
 
 .bda-dark .server-info button {
