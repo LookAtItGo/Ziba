@@ -479,7 +479,7 @@ span.ping {
 /* Unread Channel Message */
 
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
-  background: var(--Main-Colour) !important;
+  background: #FF7E7E !important;
 }
 
 /* Guild Unread Message */
